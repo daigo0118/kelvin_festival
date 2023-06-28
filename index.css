@@ -6,6 +6,9 @@ body {
 a {
   text-decoration: none;
 }
+p {
+  font-size: 100px;
+}
 
 .container {
   width: 1170px;
