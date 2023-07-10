@@ -76,7 +76,7 @@ header {
 .header-left > img{
   float: left;
   height: 65px;
-  width: 124px;
+  width: 100%;
 }
 
 
