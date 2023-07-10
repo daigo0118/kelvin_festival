@@ -44,18 +44,6 @@ a {
 }
 
 
-.btn {
-  padding: 8px 24px;
-  color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
 .fa {
   margin-right: 5px;
 }
@@ -70,18 +58,12 @@ header {
 }
 
 
-.header-left {
-  float: left;
-
-}
-
 .logo {
   height: 65px;
   width: 100%;
 }
 
 .header-right {
-  float: right;
   background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
 }
