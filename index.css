@@ -117,19 +117,6 @@ header {
   font-weight: normal;
 }
 
-.laboratory {
-  width: 25%;
-}
-
-.laboratory-icon {
-  position: relative;
-  height: 500px;
-}
-
-.laboratory-icon p {
-  top: 90px;
-  width: 100%;
-}
 
 .txt-contents {
   width: 80%;
