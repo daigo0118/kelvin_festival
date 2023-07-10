@@ -73,12 +73,15 @@ header {
 }
 
 
-.header-left > img{
+.header-left {
   float: left;
+
+}
+
+.logo {
   height: 65px;
   width: 100%;
 }
-
 
 .header-right {
   float: right;
