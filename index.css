@@ -77,8 +77,10 @@ header {
   margin-top: 20px;
 }
 
-.header-left {
+.header-left a{
   float: left;
+  height: 65px;
+  width: 100%;
 }
 
 
@@ -123,6 +125,7 @@ header {
 
 .laboratory-icon {
   position: relative;
+  padding: ;
 }
 
 .laboratory-icon a {
