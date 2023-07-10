@@ -118,7 +118,6 @@ header {
 }
 
 .laboratory {
-  float: left;
   width: 25%;
 }
 
@@ -127,11 +126,9 @@ header {
   height: 500px;
 }
 
-.laboratory-icon a {
-  position: absolute;
+.laboratory-icon p {
   top: 90px;
   width: 100%;
-  color: white;
 }
 
 .txt-contents {
