@@ -152,3 +152,7 @@ footer {
 .laboratory-icon p {
   color:#239b76; 
 }
+
+.laboratory-icon a{
+  display: flex;
+}
