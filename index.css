@@ -27,18 +27,6 @@ a {
   letter-spacing: 5px;
 }
 
-.top-wrapper p {
-  opacity: 0.7;
-}
-
-.btn-wrapper {
-  margin: 20px 0;
-}
-
-.btn-wrapper p {
-  margin: 10px 0;
-}
-
 .signup {
   background-color: #239b76;
 }
@@ -153,7 +141,7 @@ footer {
   color:#239b76; 
 }
 
-.laboratory-icon a{
+.laboratory {
   float: left;
   width: 25%;
 }
