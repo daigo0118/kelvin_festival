@@ -154,5 +154,6 @@ footer {
 }
 
 .laboratory-icon a{
-  display: flex;
+  float: left;
+  width: 25%;
 }
