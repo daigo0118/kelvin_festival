@@ -32,7 +32,7 @@ header {
   top: 0;
   left: 0;
   width: 20%;
-  height: 5px;
+  height: 20px;
   padding: 10px; 
 }
 
@@ -82,14 +82,10 @@ header {
   font-weight: normal;
 }
 
-footer img {
-  width: 125px;
-}
+/* 
 
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
-}
+
+*/
 
 footer {
   padding-top: 30px;
