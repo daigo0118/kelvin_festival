@@ -93,7 +93,8 @@ header {
 
 .laboratory {
   width:33%;
-  }
+  display: inline-block;
+}
 
 .laboratory-child {
  width:80%;
