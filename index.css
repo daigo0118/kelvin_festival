@@ -98,12 +98,15 @@ header {
 
 .laboratory-child {
  width:80%;
+ justify-content: center;
+ align-items: center;
 }
 
 
 .laboratory-icon {
   width: 20%;
-} */
+  position:relative;
+} 
 
 .container {
   width: 1170px;
