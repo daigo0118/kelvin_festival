@@ -84,6 +84,7 @@ header {
 
 .body-container {
   margin-top: 100px;
+  width:20%;
 }
 
 .laboratory-icon p {
@@ -91,12 +92,12 @@ header {
 }
 
 .laboratory {
-  float: left;
+width:50%;
 }
-
+/* 
 .laboratory-icon {
   width: 20%;
-}
+} */
 
 .container {
   width: 1170px;
