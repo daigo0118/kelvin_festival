@@ -87,14 +87,16 @@ header {
   width:20%;
 }
 
-.laboratory-icon p {
-  color:#239b76; 
+.laboratory {
+  width:33%;
+  float:left;
+  }
+
+.laboratory-child {
+ width:80%;
 }
 
-.laboratory {
-width:50%;
-}
-/* 
+
 .laboratory-icon {
   width: 20%;
 } */
