@@ -87,9 +87,12 @@ header {
   width:20%;
 }
 
+.rigakubu {
+  float:left;
+}
+
 .laboratory {
   width:33%;
-  float:left;
   }
 
 .laboratory-child {
