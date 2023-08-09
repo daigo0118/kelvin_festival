@@ -69,14 +69,14 @@ header {
   font-weight: normal;
 }
 
-
+/* 
 .txt-contents {
   width: 80%;
   display: inline-block;
   margin-top: 20px;
   font-size: 12px;
   color: #b3aeb5;
-}
+} */
 
 .heading h3 {
   font-weight: normal;
@@ -97,6 +97,9 @@ footer {
 
 .laboratory {
   float: left;
+}
+
+.laboratory-icon {
   width: 25%;
 }
 
